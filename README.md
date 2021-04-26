@@ -1,8 +1,6 @@
 # bundleID_lookup
 A Python script to query http://itunes.apple.com for info related to an app bundleID
 
-Queries data from itunes.apple.com for input bundleID(s)
-
 Accepts -b as a single bundleID, example: com.apple.tv or a list file (one ID per line)
 Accepts -k as a file list of bundleID keys (one key per line) or omit to uses the default key list
 Use -s or --save to save the results to a text file
